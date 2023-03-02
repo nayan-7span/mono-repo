@@ -1,0 +1,10 @@
+{
+  "name": "ui",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "types": "./index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "2.7"
+  }
+}
